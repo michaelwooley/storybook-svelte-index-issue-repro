@@ -1,6 +1,6 @@
 # Stories named `index.stories.svelte` are not recognized
 
-**(Bug report reproduction repo)**
+**Bug report reproduction repo. See [`storybookjs/storybook/issues/15295`](https://github.com/storybookjs/storybook/issues/15295)**
 
 (This repo is the output of running the storybook reproduction command as described [here](https://storybook.js.org/docs/react/contribute/how-to-reproduce).)
 
